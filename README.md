@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**avishka33/avishka33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Avishka_shavinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
