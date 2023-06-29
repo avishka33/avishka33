@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Avishka shavivinda</h1>
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
 
-<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.cnbcfm.com%2Fapi%2Fv1%2Fimage%2F103186325-GettyImages-485001492.jpg%3Fv%3D1550601747&tbnid=F8AW5-cc1OEz2M&vet=12ahUKEwiT1Jy3yOf_AhW15DgGHXi6ABIQMygBegUIARDsAQ..i&imgrefurl=https%3A%2F%2Fwww.cnbc.com%2F2016%2F07%2F07%2F10-high-profile-cyberhacks-still-impacting-consumers-today.html&docid=r_XAfUHcEME_lM&w=2000&h=1333&q=hacker&ved=2ahUKEwiT1Jy3yOf_AhW15DgGHXi6ABIQMygBegUIARDsAQ" alt="g" /> </p>
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g&label=Profile%20views&color=0e75b6&style=flat" alt="g" /> </p>
