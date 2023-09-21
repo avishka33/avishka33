@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Avishka shavivinda</h1>
+<h1 align="center"> I'm Avishka shavivinda</h1>
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
 
 
