@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Avishka shavinda</h1>
-<h3 align="center">A Passionate Fullstack Developer from Sri lanka</h3>
+<div align="center">
+<a href="https://youtube.com/c/Nazedev">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Avishka_Shavinda;Welcome+to+my+GitHub+❄️"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
+<h6 align="center">A Passionate Fullstack Developer from Sri lanka</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishka33&label=Profile%20views&color=0e75b6&style=flat" alt="avishka33" /> </p>
 
