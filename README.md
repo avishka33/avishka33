@@ -19,9 +19,8 @@
 - 📫 How to reach me **shavindaavishka33@gmail.com**
 
 - ⚡ Fun fact **I THINK IM FUNNY**
+### Github Stats 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishka33&show_icons=true&locale=en&layout=compact" alt="avishka33" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avishka33&show_icons=true&locale=en" alt="avishka33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka33&" alt="avishka33" /></p>
+<p align="center"><a href="https://github.com/avishka33"><img src="https://github-readme-stats.vercel.app/api?username=avishka33&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/avishka33"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/avishka33"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka33&theme=chartreuse-dark&layout=compact"></a></p> 
