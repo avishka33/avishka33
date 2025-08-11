@@ -21,11 +21,17 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avishka33&label=Profile%20views&color=0e75b6&style=flat" alt="avishka33" /> </p>
+<div align="center">
+  <h6>🏆 GitHub Trophies</h6>
+  <img src="https://github-profile-trophy.vercel.app/?username=avishka33&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishka33" alt="avishka33" /></a> </p>
+<div align="center">
+  <h6>📈 Contribution Graph</h6>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishka33&bg_color=0d1117&color=63a4ff&line=83eaf1&point=63a4ff&area=true&hide_border=true&radius=8" width="100%">
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://github-stats-alpha.vercel.app/api?username=avishka33&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
 
 - 📫 How to reach me **shavindaavishka33@gmail.com**
 
@@ -35,3 +41,14 @@
 <p align="center"><a href="https://github.com/avishka33"><img src="https://github-readme-stats.vercel.app/api?username=avishka33&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/avishka33"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/avishka33"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishka33&theme=chartreuse-dark&layout=compact"></a></p> 
+
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=63A4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+code+and+learn+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer"/>
