@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=AVI%20H4CK3R'S%202025&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20API%20Developer%20|%20Software%20Enginner&descAlignY=55&descSize=15"/>
+</div>
+
+<div align="center">
 <a href="https://youtube.com/c/Nazedev">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f7078&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Avishka_Shavinda;Welcome+to+my+GitHub+❄️"
